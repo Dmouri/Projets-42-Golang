@@ -1,0 +1,8 @@
+B+!C=>A
+
+=C
+
+?A
+
+#True:
+#False: A

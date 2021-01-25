@@ -1,0 +1,6 @@
+(A+B) | (C + D) => K
+((A+B) | X) <=> (Z + E) | F
+
+=ABCKEZ
+
+?FABV

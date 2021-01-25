@@ -1,0 +1,8 @@
+(A+B => K
+((A+B) | L => K
+A+B) => L
+(A+B)) ^ K => F
+(A+B)) ^ (K => D
+
+=ABC
+?ABC

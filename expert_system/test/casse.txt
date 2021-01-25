@@ -1,0 +1,6 @@
+A + B <=> (!(A+(J^(C|V^B)))^B+(J^C|V)+J)|(J^F)
+H+J <=> (B+D)+(K ^(G+H))
+
+
+=ABKGVC
+?C

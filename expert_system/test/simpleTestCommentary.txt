@@ -1,0 +1,19 @@
+# lol
+
+
+
+
+(A   + B) => C # lol
+A | B => F
+A ^ C => K
+A + C <=> K + C
+
+# lol
+
+=AB # ee
+
+# lol
+
+?ABC ##
+
+# ici
