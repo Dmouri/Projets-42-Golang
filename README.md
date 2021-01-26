@@ -2,6 +2,7 @@
 
 Here is some projects of the 42 school written in Golang.
 In each directory you will find the subject of the project and a README describing the program and its dependencies.
+All projects are meant to run on OSX but some of them can run on other OS.
 
 
 # Gomoku
